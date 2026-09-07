@@ -1,0 +1,1610 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "deviation-narrative-draft",
+      "operations-handoff-draft",
+      "landowner-letter-draft",
+      "violation-chronology-draft",
+      "corrective-action-draft",
+      "monitoring-report-draft",
+      "waste-program-report-draft",
+      "survey-preparation-draft",
+      "adaptive-management-draft",
+      "stewardship-report-draft",
+      "draft-disclosure",
+      "mrv-document-validate",
+      "grant-application-draft",
+      "batch09-gap-nonai-service-disruption-notification-smsemail",
+      "intel-report-summarize"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 18 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "deviation-narrative-draft",
+        "title": "Deviation narrative draft",
+        "originalPath": "/features/deviation-narrative-draft"
+      },
+      {
+        "id": "operations-handoff-draft",
+        "title": "Operations handoff draft",
+        "originalPath": "/features/operations-handoff-draft"
+      },
+      {
+        "id": "landowner-letter-draft",
+        "title": "Landowner letter draft",
+        "originalPath": "/features/landowner-letter-draft"
+      },
+      {
+        "id": "violation-chronology-draft",
+        "title": "Violation chronology draft",
+        "originalPath": "/features/violation-chronology-draft"
+      },
+      {
+        "id": "corrective-action-draft",
+        "title": "Corrective action draft",
+        "originalPath": "/features/corrective-action-draft"
+      },
+      {
+        "id": "monitoring-report-draft",
+        "title": "Monitoring report draft",
+        "originalPath": "/features/monitoring-report-draft"
+      },
+      {
+        "id": "waste-program-report-draft",
+        "title": "Waste program report draft",
+        "originalPath": "/features/waste-program-report-draft"
+      },
+      {
+        "id": "survey-preparation-draft",
+        "title": "Survey preparation draft",
+        "originalPath": "/features/survey-preparation-draft"
+      },
+      {
+        "id": "adaptive-management-draft",
+        "title": "Adaptive management draft",
+        "originalPath": "/features/adaptive-management-draft"
+      },
+      {
+        "id": "stewardship-report-draft",
+        "title": "Stewardship report draft",
+        "originalPath": "/features/stewardship-report-draft"
+      },
+      {
+        "id": "draft-disclosure",
+        "title": "Draft disclosure",
+        "originalPath": "/features/draft-disclosure"
+      },
+      {
+        "id": "mrv-document-validate",
+        "title": "Mrv document validate",
+        "originalPath": "/features/mrv-document-validate"
+      },
+      {
+        "id": "grant-application-draft",
+        "title": "AI · Grant Draft",
+        "originalPath": "/features/grant-application-draft"
+      },
+      {
+        "id": "batch09-gap-nonai-service-disruption-notification-smsemail",
+        "title": "Service disruption notification smsemail",
+        "originalPath": "/features/batch09-gap-nonai-service-disruption-notification-smsemail"
+      },
+      {
+        "id": "intel-report-summarize",
+        "title": "Intel report summarize",
+        "originalPath": "/features/intel-report-summarize"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "permit-condition-extraction",
+      "stack-test-comparison",
+      "annual-report-narrative",
+      "easement-term-extraction",
+      "visit-versus-baseline-comparison",
+      "annual-stewardship-narrative",
+      "asset-maintenance",
+      "engineer-observation-summary",
+      "emergency-plan-completeness-review",
+      "exercise-lessons-summary",
+      "permit-limit-extraction",
+      "sample-discrepancy-review",
+      "custody-completeness-check",
+      "pretreatment-maintenance-summary",
+      "discharge-incident-narrative",
+      "vendor-report-extraction",
+      "cumulative-exposure-record-summary",
+      "missing-report-follow-up",
+      "investigation-narrative",
+      "worker-report-explanation",
+      "manifest-extraction",
+      "transfer-packet-preparation",
+      "incident-chronology",
+      "recycler-contract-library",
+      "commodity-grade-registry",
+      "container-pickup-tracking",
+      "scale-ticket-ingestion",
+      "recycler-claim-workflow",
+      "plant-commodity-analytics",
+      "material-declaration-extraction",
+      "ihm-discrepancy-summary",
+      "material-handoff-narrative",
+      "hauling-contract-library",
+      "location-container-registry",
+      "service-event-ingestion",
+      "haul-charge-calculation",
+      "hauler-dispute-workflow",
+      "location-waste-analytics",
+      "curtailment-notice",
+      "permit-restriction-extraction",
+      "transfer-packet-review",
+      "curtailment-summary",
+      "delivery-variance-explanation",
+      "performance-observation-summary",
+      "aibiochar-soil-carbon-sequestration-tracker",
+      "market-analytics",
+      "project-impact",
+      "carbon-calculator",
+      "reduction-plan",
+      "certificate-summary",
+      "claims",
+      "verify-project",
+      "synthesize-mrv",
+      "map-methodology",
+      "leakage-modeler",
+      "satellite-mrv",
+      "registry-arbitrage",
+      "biodiversity-co-benefit",
+      "climate-claim-validator",
+      "scope-3-attributor",
+      "aml-screen-transaction",
+      "project-rating",
+      "issuance-chain",
+      "fragment-health-vision",
+      "restoration-prioritize",
+      "executive-brief",
+      "partner-impact-report",
+      "propagation-success-rate",
+      "vessel-routing",
+      "weather-dive-window",
+      "species-id-fish",
+      "publication-summary",
+      "training-gap-analysis",
+      "donor-narrative",
+      "reef-heat-stress-plan",
+      "growth-rate-model",
+      "genotype-rescue-match",
+      "weather",
+      "carbon",
+      "goals",
+      "results",
+      "backlog",
+      "certification-roadmap",
+      "scope3-automation",
+      "investor-update",
+      "net-zero-roadmap",
+      "sustainability-metrics",
+      "supply-chain",
+      "greenwashing",
+      "biodiversity",
+      "governance",
+      "esg-report",
+      "sustainability",
+      "stakeholder",
+      "climate",
+      "social",
+      "contamination-vision-score",
+      "sortation-line-balance",
+      "downtime-rca",
+      "vendor-quote-compare",
+      "route-pickup-optimize",
+      "training-needs",
+      "hauler-payment-recon",
+      "equipment-prognostic",
+      "scrap-market-brief",
+      "end-market-match",
+      "contamination-report-card",
+      "environmental-impact",
+      "recycling-analytics",
+      "driver-coaching",
+      "batch09-cfs-driver-performance-leaderboard-with-ai-coaching",
+      "batch09-gap-ai-ai-powered-driver-route-coaching-and-fuel-efficiency-feedbac",
+      "batch09-gap-ai-computer-vision-bin-condition-assessment",
+      "batch09-gap-nonai-customerresident-portal-for-service-requests",
+      "batch09-gap-nonai-complaint-and-missed-pickup-ticketing",
+      "batch09-gap-nonai-real-time-gps-tracking-dashboard-with-live-etas",
+      "batch09-gap-nonai-hazardous-waste-manifest-tracking",
+      "batch09-gap-nonai-driver-mobile-app-endpoints",
+      "main-break-response",
+      "batch09-cfs-meter-analytics-driving-conservation-incentive-programs",
+      "batch09-gap-ai-customer-segment-demand-modeling",
+      "batch09-gap-nonai-public-facing-transparency-portal",
+      "snare-density-heatmap",
+      "court-case-summary",
+      "drone-flight-plan",
+      "vehicle-routing",
+      "communication-plan",
+      "weather-impact-patrol",
+      "supply-resupply-plan",
+      "donor-impact-report",
+      "incident-narrator"
+    ],
+    "ai": true,
+    "representativeId": "permit-condition-extraction",
+    "description": "One assistant for 131 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "permit-condition-extraction",
+        "title": "Permit condition extraction",
+        "originalPath": "/features/permit-condition-extraction"
+      },
+      {
+        "id": "stack-test-comparison",
+        "title": "Stack test comparison",
+        "originalPath": "/features/stack-test-comparison"
+      },
+      {
+        "id": "annual-report-narrative",
+        "title": "Annual report narrative",
+        "originalPath": "/features/annual-report-narrative"
+      },
+      {
+        "id": "easement-term-extraction",
+        "title": "Easement term extraction",
+        "originalPath": "/features/easement-term-extraction"
+      },
+      {
+        "id": "visit-versus-baseline-comparison",
+        "title": "Visit versus baseline comparison",
+        "originalPath": "/features/visit-versus-baseline-comparison"
+      },
+      {
+        "id": "annual-stewardship-narrative",
+        "title": "Annual stewardship narrative",
+        "originalPath": "/features/annual-stewardship-narrative"
+      },
+      {
+        "id": "asset-maintenance",
+        "title": "Asset Maintenance",
+        "originalPath": "/features/asset-maintenance"
+      },
+      {
+        "id": "engineer-observation-summary",
+        "title": "Engineer observation summary",
+        "originalPath": "/features/engineer-observation-summary"
+      },
+      {
+        "id": "emergency-plan-completeness-review",
+        "title": "Emergency plan completeness review",
+        "originalPath": "/features/emergency-plan-completeness-review"
+      },
+      {
+        "id": "exercise-lessons-summary",
+        "title": "Exercise lessons summary",
+        "originalPath": "/features/exercise-lessons-summary"
+      },
+      {
+        "id": "permit-limit-extraction",
+        "title": "Permit limit extraction",
+        "originalPath": "/features/permit-limit-extraction"
+      },
+      {
+        "id": "sample-discrepancy-review",
+        "title": "Sample discrepancy review",
+        "originalPath": "/features/sample-discrepancy-review"
+      },
+      {
+        "id": "custody-completeness-check",
+        "title": "Custody completeness check",
+        "originalPath": "/features/custody-completeness-check"
+      },
+      {
+        "id": "pretreatment-maintenance-summary",
+        "title": "Pretreatment maintenance summary",
+        "originalPath": "/features/pretreatment-maintenance-summary"
+      },
+      {
+        "id": "discharge-incident-narrative",
+        "title": "Discharge incident narrative",
+        "originalPath": "/features/discharge-incident-narrative"
+      },
+      {
+        "id": "vendor-report-extraction",
+        "title": "Vendor report extraction",
+        "originalPath": "/features/vendor-report-extraction"
+      },
+      {
+        "id": "cumulative-exposure-record-summary",
+        "title": "Cumulative exposure record summary",
+        "originalPath": "/features/cumulative-exposure-record-summary"
+      },
+      {
+        "id": "missing-report-follow-up",
+        "title": "Missing report follow-up",
+        "originalPath": "/features/missing-report-follow-up"
+      },
+      {
+        "id": "investigation-narrative",
+        "title": "Investigation narrative",
+        "originalPath": "/features/investigation-narrative"
+      },
+      {
+        "id": "worker-report-explanation",
+        "title": "Worker report explanation",
+        "originalPath": "/features/worker-report-explanation"
+      },
+      {
+        "id": "manifest-extraction",
+        "title": "Manifest extraction",
+        "originalPath": "/features/manifest-extraction"
+      },
+      {
+        "id": "transfer-packet-preparation",
+        "title": "Transfer packet preparation",
+        "originalPath": "/features/transfer-packet-preparation"
+      },
+      {
+        "id": "incident-chronology",
+        "title": "Incident chronology",
+        "originalPath": "/features/incident-chronology"
+      },
+      {
+        "id": "recycler-contract-library",
+        "title": "Recycler contract library",
+        "originalPath": "/features/recycler-contract-library"
+      },
+      {
+        "id": "commodity-grade-registry",
+        "title": "Commodity grade registry",
+        "originalPath": "/features/commodity-grade-registry"
+      },
+      {
+        "id": "container-pickup-tracking",
+        "title": "Container pickup tracking",
+        "originalPath": "/features/container-pickup-tracking"
+      },
+      {
+        "id": "scale-ticket-ingestion",
+        "title": "Scale ticket ingestion",
+        "originalPath": "/features/scale-ticket-ingestion"
+      },
+      {
+        "id": "recycler-claim-workflow",
+        "title": "Recycler claim workflow",
+        "originalPath": "/features/recycler-claim-workflow"
+      },
+      {
+        "id": "plant-commodity-analytics",
+        "title": "Plant commodity analytics",
+        "originalPath": "/features/plant-commodity-analytics"
+      },
+      {
+        "id": "material-declaration-extraction",
+        "title": "Material declaration extraction",
+        "originalPath": "/features/material-declaration-extraction"
+      },
+      {
+        "id": "ihm-discrepancy-summary",
+        "title": "IHM discrepancy summary",
+        "originalPath": "/features/ihm-discrepancy-summary"
+      },
+      {
+        "id": "material-handoff-narrative",
+        "title": "Material handoff narrative",
+        "originalPath": "/features/material-handoff-narrative"
+      },
+      {
+        "id": "hauling-contract-library",
+        "title": "Hauling contract library",
+        "originalPath": "/features/hauling-contract-library"
+      },
+      {
+        "id": "location-container-registry",
+        "title": "Location container registry",
+        "originalPath": "/features/location-container-registry"
+      },
+      {
+        "id": "service-event-ingestion",
+        "title": "Service event ingestion",
+        "originalPath": "/features/service-event-ingestion"
+      },
+      {
+        "id": "haul-charge-calculation",
+        "title": "Haul charge calculation",
+        "originalPath": "/features/haul-charge-calculation"
+      },
+      {
+        "id": "hauler-dispute-workflow",
+        "title": "Hauler dispute workflow",
+        "originalPath": "/features/hauler-dispute-workflow"
+      },
+      {
+        "id": "location-waste-analytics",
+        "title": "Location waste analytics",
+        "originalPath": "/features/location-waste-analytics"
+      },
+      {
+        "id": "curtailment-notice",
+        "title": "Curtailment Notice",
+        "originalPath": "/features/curtailment-notice"
+      },
+      {
+        "id": "permit-restriction-extraction",
+        "title": "Permit restriction extraction",
+        "originalPath": "/features/permit-restriction-extraction"
+      },
+      {
+        "id": "transfer-packet-review",
+        "title": "Transfer packet review",
+        "originalPath": "/features/transfer-packet-review"
+      },
+      {
+        "id": "curtailment-summary",
+        "title": "Curtailment summary",
+        "originalPath": "/features/curtailment-summary"
+      },
+      {
+        "id": "delivery-variance-explanation",
+        "title": "Delivery variance explanation",
+        "originalPath": "/features/delivery-variance-explanation"
+      },
+      {
+        "id": "performance-observation-summary",
+        "title": "Performance observation summary",
+        "originalPath": "/features/performance-observation-summary"
+      },
+      {
+        "id": "aibiochar-soil-carbon-sequestration-tracker",
+        "title": "Biochar soil carbon sequestration tracker work",
+        "originalPath": "/features/aibiochar-soil-carbon-sequestration-tracker"
+      },
+      {
+        "id": "market-analytics",
+        "title": "Market Analytics",
+        "originalPath": "/features/market-analytics"
+      },
+      {
+        "id": "project-impact",
+        "title": "Project Impact Evaluation",
+        "originalPath": "/features/project-impact"
+      },
+      {
+        "id": "carbon-calculator",
+        "title": "AI Carbon Calculator",
+        "originalPath": "/features/carbon-calculator"
+      },
+      {
+        "id": "reduction-plan",
+        "title": "AI Reduction Plan",
+        "originalPath": "/features/reduction-plan"
+      },
+      {
+        "id": "certificate-summary",
+        "title": "AI Certificate Summary",
+        "originalPath": "/features/certificate-summary"
+      },
+      {
+        "id": "claims",
+        "title": "Claims",
+        "originalPath": "/features/claims"
+      },
+      {
+        "id": "verify-project",
+        "title": "Verify project",
+        "originalPath": "/features/verify-project"
+      },
+      {
+        "id": "synthesize-mrv",
+        "title": "Synthesize mrv",
+        "originalPath": "/features/synthesize-mrv"
+      },
+      {
+        "id": "map-methodology",
+        "title": "Map methodology",
+        "originalPath": "/features/map-methodology"
+      },
+      {
+        "id": "leakage-modeler",
+        "title": "Leakage modeler",
+        "originalPath": "/features/leakage-modeler"
+      },
+      {
+        "id": "satellite-mrv",
+        "title": "Satellite mrv",
+        "originalPath": "/features/satellite-mrv"
+      },
+      {
+        "id": "registry-arbitrage",
+        "title": "Registry arbitrage",
+        "originalPath": "/features/registry-arbitrage"
+      },
+      {
+        "id": "biodiversity-co-benefit",
+        "title": "Biodiversity co benefit",
+        "originalPath": "/features/biodiversity-co-benefit"
+      },
+      {
+        "id": "climate-claim-validator",
+        "title": "Climate claim validator",
+        "originalPath": "/features/climate-claim-validator"
+      },
+      {
+        "id": "scope-3-attributor",
+        "title": "Scope 3 attributor",
+        "originalPath": "/features/scope-3-attributor"
+      },
+      {
+        "id": "aml-screen-transaction",
+        "title": "Aml screen transaction",
+        "originalPath": "/features/aml-screen-transaction"
+      },
+      {
+        "id": "project-rating",
+        "title": "Project rating",
+        "originalPath": "/features/project-rating"
+      },
+      {
+        "id": "issuance-chain",
+        "title": "Issuance chain",
+        "originalPath": "/features/issuance-chain"
+      },
+      {
+        "id": "fragment-health-vision",
+        "title": "AI · Fragment Health",
+        "originalPath": "/features/fragment-health-vision"
+      },
+      {
+        "id": "restoration-prioritize",
+        "title": "AI · Restoration Priority",
+        "originalPath": "/features/restoration-prioritize"
+      },
+      {
+        "id": "executive-brief",
+        "title": "AI · Executive Brief",
+        "originalPath": "/features/executive-brief"
+      },
+      {
+        "id": "partner-impact-report",
+        "title": "AI · Partner Impact",
+        "originalPath": "/features/partner-impact-report"
+      },
+      {
+        "id": "propagation-success-rate",
+        "title": "AI · Propagation Success",
+        "originalPath": "/features/propagation-success-rate"
+      },
+      {
+        "id": "vessel-routing",
+        "title": "AI · Vessel Routing",
+        "originalPath": "/features/vessel-routing"
+      },
+      {
+        "id": "weather-dive-window",
+        "title": "AI · Dive Window",
+        "originalPath": "/features/weather-dive-window"
+      },
+      {
+        "id": "species-id-fish",
+        "title": "AI · Species ID",
+        "originalPath": "/features/species-id-fish"
+      },
+      {
+        "id": "publication-summary",
+        "title": "AI · Publication Summary",
+        "originalPath": "/features/publication-summary"
+      },
+      {
+        "id": "training-gap-analysis",
+        "title": "AI · Training Gap",
+        "originalPath": "/features/training-gap-analysis"
+      },
+      {
+        "id": "donor-narrative",
+        "title": "AI · Donor Narrative",
+        "originalPath": "/features/donor-narrative"
+      },
+      {
+        "id": "reef-heat-stress-plan",
+        "title": "Reef heat stress plan",
+        "originalPath": "/features/reef-heat-stress-plan"
+      },
+      {
+        "id": "growth-rate-model",
+        "title": "Growth rate model",
+        "originalPath": "/features/growth-rate-model"
+      },
+      {
+        "id": "genotype-rescue-match",
+        "title": "Genotype rescue match",
+        "originalPath": "/features/genotype-rescue-match"
+      },
+      {
+        "id": "weather",
+        "title": "Weather Impact",
+        "originalPath": "/features/weather"
+      },
+      {
+        "id": "carbon",
+        "title": "Carbon Footprint",
+        "originalPath": "/features/carbon"
+      },
+      {
+        "id": "goals",
+        "title": "AI Goals",
+        "originalPath": "/features/goals"
+      },
+      {
+        "id": "results",
+        "title": "AI Results",
+        "originalPath": "/features/results"
+      },
+      {
+        "id": "backlog",
+        "title": "Backlog",
+        "originalPath": "/features/backlog"
+      },
+      {
+        "id": "certification-roadmap",
+        "title": "Certification Roadmap",
+        "originalPath": "/features/certification-roadmap"
+      },
+      {
+        "id": "scope3-automation",
+        "title": "Scope 3 Automation",
+        "originalPath": "/features/scope3-automation"
+      },
+      {
+        "id": "investor-update",
+        "title": "Investor Relations Update",
+        "originalPath": "/features/investor-update"
+      },
+      {
+        "id": "net-zero-roadmap",
+        "title": "Net-Zero Roadmap (Agentic Sustainability Officer)",
+        "originalPath": "/features/net-zero-roadmap"
+      },
+      {
+        "id": "sustainability-metrics",
+        "title": "Sustainability metrics",
+        "originalPath": "/features/sustainability-metrics"
+      },
+      {
+        "id": "supply-chain",
+        "title": "Supply chain",
+        "originalPath": "/features/supply-chain"
+      },
+      {
+        "id": "greenwashing",
+        "title": "Greenwashing",
+        "originalPath": "/features/greenwashing"
+      },
+      {
+        "id": "biodiversity",
+        "title": "Biodiversity",
+        "originalPath": "/features/biodiversity"
+      },
+      {
+        "id": "governance",
+        "title": "Governance",
+        "originalPath": "/features/governance"
+      },
+      {
+        "id": "esg-report",
+        "title": "Esg report",
+        "originalPath": "/features/esg-report"
+      },
+      {
+        "id": "sustainability",
+        "title": "Sustainability",
+        "originalPath": "/features/sustainability"
+      },
+      {
+        "id": "stakeholder",
+        "title": "Stakeholder",
+        "originalPath": "/features/stakeholder"
+      },
+      {
+        "id": "climate",
+        "title": "Climate",
+        "originalPath": "/features/climate"
+      },
+      {
+        "id": "social",
+        "title": "Social",
+        "originalPath": "/features/social"
+      },
+      {
+        "id": "contamination-vision-score",
+        "title": "AI · Contamination Vision",
+        "originalPath": "/features/contamination-vision-score"
+      },
+      {
+        "id": "sortation-line-balance",
+        "title": "AI · Sortation Balance",
+        "originalPath": "/features/sortation-line-balance"
+      },
+      {
+        "id": "downtime-rca",
+        "title": "AI · Downtime RCA",
+        "originalPath": "/features/downtime-rca"
+      },
+      {
+        "id": "vendor-quote-compare",
+        "title": "AI · Vendor Quote Compare",
+        "originalPath": "/features/vendor-quote-compare"
+      },
+      {
+        "id": "route-pickup-optimize",
+        "title": "AI · Route / Pickup",
+        "originalPath": "/features/route-pickup-optimize"
+      },
+      {
+        "id": "training-needs",
+        "title": "AI · Training Needs",
+        "originalPath": "/features/training-needs"
+      },
+      {
+        "id": "hauler-payment-recon",
+        "title": "AI · Hauler Recon",
+        "originalPath": "/features/hauler-payment-recon"
+      },
+      {
+        "id": "equipment-prognostic",
+        "title": "AI · Equipment Prognostic",
+        "originalPath": "/features/equipment-prognostic"
+      },
+      {
+        "id": "scrap-market-brief",
+        "title": "AI · Scrap Market Brief",
+        "originalPath": "/features/scrap-market-brief"
+      },
+      {
+        "id": "end-market-match",
+        "title": "End market match",
+        "originalPath": "/features/end-market-match"
+      },
+      {
+        "id": "contamination-report-card",
+        "title": "Contamination report card",
+        "originalPath": "/features/contamination-report-card"
+      },
+      {
+        "id": "environmental-impact",
+        "title": "Environmental impact",
+        "originalPath": "/features/environmental-impact"
+      },
+      {
+        "id": "recycling-analytics",
+        "title": "Recycling analytics",
+        "originalPath": "/features/recycling-analytics"
+      },
+      {
+        "id": "driver-coaching",
+        "title": "Driver coaching",
+        "originalPath": "/features/driver-coaching"
+      },
+      {
+        "id": "batch09-cfs-driver-performance-leaderboard-with-ai-coaching",
+        "title": "Driver performance leaderboard with ai coaching",
+        "originalPath": "/features/batch09-cfs-driver-performance-leaderboard-with-ai-coaching"
+      },
+      {
+        "id": "batch09-gap-ai-ai-powered-driver-route-coaching-and-fuel-efficiency-feedbac",
+        "title": "Powered driver route coaching and fuel efficiency feedbac",
+        "originalPath": "/features/batch09-gap-ai-ai-powered-driver-route-coaching-and-fuel-efficiency-feedbac"
+      },
+      {
+        "id": "batch09-gap-ai-computer-vision-bin-condition-assessment",
+        "title": "Computer vision bin condition assessment",
+        "originalPath": "/features/batch09-gap-ai-computer-vision-bin-condition-assessment"
+      },
+      {
+        "id": "batch09-gap-nonai-customerresident-portal-for-service-requests",
+        "title": "Customerresident portal for service requests",
+        "originalPath": "/features/batch09-gap-nonai-customerresident-portal-for-service-requests"
+      },
+      {
+        "id": "batch09-gap-nonai-complaint-and-missed-pickup-ticketing",
+        "title": "Complaint and missed pickup ticketing",
+        "originalPath": "/features/batch09-gap-nonai-complaint-and-missed-pickup-ticketing"
+      },
+      {
+        "id": "batch09-gap-nonai-real-time-gps-tracking-dashboard-with-live-etas",
+        "title": "Real time gps tracking dashboard with live etas",
+        "originalPath": "/features/batch09-gap-nonai-real-time-gps-tracking-dashboard-with-live-etas"
+      },
+      {
+        "id": "batch09-gap-nonai-hazardous-waste-manifest-tracking",
+        "title": "Hazardous waste manifest tracking",
+        "originalPath": "/features/batch09-gap-nonai-hazardous-waste-manifest-tracking"
+      },
+      {
+        "id": "batch09-gap-nonai-driver-mobile-app-endpoints",
+        "title": "Driver mobile app endpoints",
+        "originalPath": "/features/batch09-gap-nonai-driver-mobile-app-endpoints"
+      },
+      {
+        "id": "main-break-response",
+        "title": "Main break response",
+        "originalPath": "/features/main-break-response"
+      },
+      {
+        "id": "batch09-cfs-meter-analytics-driving-conservation-incentive-programs",
+        "title": "Meter analytics driving conservation incentive programs",
+        "originalPath": "/features/batch09-cfs-meter-analytics-driving-conservation-incentive-programs"
+      },
+      {
+        "id": "batch09-gap-ai-customer-segment-demand-modeling",
+        "title": "Customer segment demand modeling",
+        "originalPath": "/features/batch09-gap-ai-customer-segment-demand-modeling"
+      },
+      {
+        "id": "batch09-gap-nonai-public-facing-transparency-portal",
+        "title": "Public facing transparency portal",
+        "originalPath": "/features/batch09-gap-nonai-public-facing-transparency-portal"
+      },
+      {
+        "id": "snare-density-heatmap",
+        "title": "AI · Snare Heatmap",
+        "originalPath": "/features/snare-density-heatmap"
+      },
+      {
+        "id": "court-case-summary",
+        "title": "AI · Court Case Summary",
+        "originalPath": "/features/court-case-summary"
+      },
+      {
+        "id": "drone-flight-plan",
+        "title": "AI · Drone Flight Plan",
+        "originalPath": "/features/drone-flight-plan"
+      },
+      {
+        "id": "vehicle-routing",
+        "title": "AI · Vehicle Routing",
+        "originalPath": "/features/vehicle-routing"
+      },
+      {
+        "id": "communication-plan",
+        "title": "AI · Comms Plan",
+        "originalPath": "/features/communication-plan"
+      },
+      {
+        "id": "weather-impact-patrol",
+        "title": "AI · Weather Impact",
+        "originalPath": "/features/weather-impact-patrol"
+      },
+      {
+        "id": "supply-resupply-plan",
+        "title": "AI · Supply Resupply",
+        "originalPath": "/features/supply-resupply-plan"
+      },
+      {
+        "id": "donor-impact-report",
+        "title": "AI · Donor Impact Report",
+        "originalPath": "/features/donor-impact-report"
+      },
+      {
+        "id": "incident-narrator",
+        "title": "Incident narrator",
+        "originalPath": "/features/incident-narrator"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "activity-evidence-reconciliation",
+      "badge-assignment-reconciliation",
+      "package-inventory-reconciliation",
+      "commodity-index-pricing",
+      "hauling-fee-audit",
+      "floor-price-control",
+      "settlement-matching",
+      "missed-pickup-credit",
+      "environmental-fee-control",
+      "invoice-recalculation",
+      "credit-reconciliation",
+      "diversion-reading-reconciliation",
+      "season-reconciliation-narrative",
+      "credit-ledger-discrepancy-brief",
+      "credit-quality",
+      "price-suggestion",
+      "market-predictor",
+      "analyze-pricing",
+      "price-discovery",
+      "narrative-evidence-reconcile",
+      "commodity-price-forecast",
+      "cost-analysis",
+      "batch09-gap-nonai-billinginvoicing-for-commercial-accounts",
+      "batch09-gap-nonai-customer-billing-and-meter-to-cash-flow"
+    ],
+    "ai": true,
+    "representativeId": "activity-evidence-reconciliation",
+    "description": "One assistant for 24 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "activity-evidence-reconciliation",
+        "title": "Activity evidence reconciliation",
+        "originalPath": "/features/activity-evidence-reconciliation"
+      },
+      {
+        "id": "badge-assignment-reconciliation",
+        "title": "Badge assignment reconciliation",
+        "originalPath": "/features/badge-assignment-reconciliation"
+      },
+      {
+        "id": "package-inventory-reconciliation",
+        "title": "Package inventory reconciliation",
+        "originalPath": "/features/package-inventory-reconciliation"
+      },
+      {
+        "id": "commodity-index-pricing",
+        "title": "Commodity index pricing",
+        "originalPath": "/features/commodity-index-pricing"
+      },
+      {
+        "id": "hauling-fee-audit",
+        "title": "Hauling fee audit",
+        "originalPath": "/features/hauling-fee-audit"
+      },
+      {
+        "id": "floor-price-control",
+        "title": "Floor price control",
+        "originalPath": "/features/floor-price-control"
+      },
+      {
+        "id": "settlement-matching",
+        "title": "Settlement matching",
+        "originalPath": "/features/settlement-matching"
+      },
+      {
+        "id": "missed-pickup-credit",
+        "title": "Missed pickup credit",
+        "originalPath": "/features/missed-pickup-credit"
+      },
+      {
+        "id": "environmental-fee-control",
+        "title": "Environmental fee control",
+        "originalPath": "/features/environmental-fee-control"
+      },
+      {
+        "id": "invoice-recalculation",
+        "title": "Invoice recalculation",
+        "originalPath": "/features/invoice-recalculation"
+      },
+      {
+        "id": "credit-reconciliation",
+        "title": "Credit reconciliation",
+        "originalPath": "/features/credit-reconciliation"
+      },
+      {
+        "id": "diversion-reading-reconciliation",
+        "title": "Diversion reading reconciliation",
+        "originalPath": "/features/diversion-reading-reconciliation"
+      },
+      {
+        "id": "season-reconciliation-narrative",
+        "title": "Season reconciliation narrative",
+        "originalPath": "/features/season-reconciliation-narrative"
+      },
+      {
+        "id": "credit-ledger-discrepancy-brief",
+        "title": "Credit ledger discrepancy brief",
+        "originalPath": "/features/credit-ledger-discrepancy-brief"
+      },
+      {
+        "id": "credit-quality",
+        "title": "Credit Quality Analysis",
+        "originalPath": "/features/credit-quality"
+      },
+      {
+        "id": "price-suggestion",
+        "title": "AI Price Suggestion",
+        "originalPath": "/features/price-suggestion"
+      },
+      {
+        "id": "market-predictor",
+        "title": "Market Price Predictor",
+        "originalPath": "/features/market-predictor"
+      },
+      {
+        "id": "analyze-pricing",
+        "title": "Analyze pricing",
+        "originalPath": "/features/analyze-pricing"
+      },
+      {
+        "id": "price-discovery",
+        "title": "Price discovery",
+        "originalPath": "/features/price-discovery"
+      },
+      {
+        "id": "narrative-evidence-reconcile",
+        "title": "Narrative evidence reconcile",
+        "originalPath": "/features/narrative-evidence-reconcile"
+      },
+      {
+        "id": "commodity-price-forecast",
+        "title": "AI · Price Forecast",
+        "originalPath": "/features/commodity-price-forecast"
+      },
+      {
+        "id": "cost-analysis",
+        "title": "Cost analysis",
+        "originalPath": "/features/cost-analysis"
+      },
+      {
+        "id": "batch09-gap-nonai-billinginvoicing-for-commercial-accounts",
+        "title": "Billinginvoicing for commercial accounts",
+        "originalPath": "/features/batch09-gap-nonai-billinginvoicing-for-commercial-accounts"
+      },
+      {
+        "id": "batch09-gap-nonai-customer-billing-and-meter-to-cash-flow",
+        "title": "Customer billing and meter to cash flow",
+        "originalPath": "/features/batch09-gap-nonai-customer-billing-and-meter-to-cash-flow"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "control-device-maintenance-brief",
+      "evidence-completeness-review",
+      "use-request-evidence-summary",
+      "instrument-anomaly-explanation",
+      "annual-safety-program-narrative",
+      "survey-evidence-completeness",
+      "gross-tare-net-validation",
+      "moisture-deduction-audit",
+      "contamination-deduction-audit",
+      "recovery-percentage-validation",
+      "supplier-evidence-gap-review",
+      "recycling-plan-evidence-review",
+      "weight-ticket-validation",
+      "disposal-rate-audit",
+      "contamination-evidence",
+      "fuel-surcharge-validation",
+      "monitoring-evidence-mapping",
+      "transaction-risk",
+      "auto-verify",
+      "compliance-analysis",
+      "audit-security",
+      "detect-fraud",
+      "water-quality-anomaly",
+      "diver-safety-brief",
+      "water",
+      "regulatory-deadline-check",
+      "regulatory-tracker",
+      "risk-assessments",
+      "compliance",
+      "risk",
+      "data-validation",
+      "customer-quality-feedback",
+      "safety-incident-summary",
+      "bale-quality-grade",
+      "regulatory-reporting",
+      "line-camera-anomaly-narrate",
+      "anomaly-detection",
+      "batch09-gap-ai-computer-vision-pipe-inspection-from-camera-feeds",
+      "batch09-gap-nonai-permitregulatory-tracking-and-reporting",
+      "ranger-safety-brief",
+      "vendor-quality-score"
+    ],
+    "ai": true,
+    "representativeId": "control-device-maintenance-brief",
+    "description": "One assistant for 41 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "control-device-maintenance-brief",
+        "title": "Control-device maintenance brief",
+        "originalPath": "/features/control-device-maintenance-brief"
+      },
+      {
+        "id": "evidence-completeness-review",
+        "title": "Evidence completeness review",
+        "originalPath": "/features/evidence-completeness-review"
+      },
+      {
+        "id": "use-request-evidence-summary",
+        "title": "Use request evidence summary",
+        "originalPath": "/features/use-request-evidence-summary"
+      },
+      {
+        "id": "instrument-anomaly-explanation",
+        "title": "Instrument anomaly explanation",
+        "originalPath": "/features/instrument-anomaly-explanation"
+      },
+      {
+        "id": "annual-safety-program-narrative",
+        "title": "Annual safety program narrative",
+        "originalPath": "/features/annual-safety-program-narrative"
+      },
+      {
+        "id": "survey-evidence-completeness",
+        "title": "Survey evidence completeness",
+        "originalPath": "/features/survey-evidence-completeness"
+      },
+      {
+        "id": "gross-tare-net-validation",
+        "title": "Gross tare net validation",
+        "originalPath": "/features/gross-tare-net-validation"
+      },
+      {
+        "id": "moisture-deduction-audit",
+        "title": "Moisture deduction audit",
+        "originalPath": "/features/moisture-deduction-audit"
+      },
+      {
+        "id": "contamination-deduction-audit",
+        "title": "Contamination deduction audit",
+        "originalPath": "/features/contamination-deduction-audit"
+      },
+      {
+        "id": "recovery-percentage-validation",
+        "title": "Recovery percentage validation",
+        "originalPath": "/features/recovery-percentage-validation"
+      },
+      {
+        "id": "supplier-evidence-gap-review",
+        "title": "Supplier evidence gap review",
+        "originalPath": "/features/supplier-evidence-gap-review"
+      },
+      {
+        "id": "recycling-plan-evidence-review",
+        "title": "Recycling plan evidence review",
+        "originalPath": "/features/recycling-plan-evidence-review"
+      },
+      {
+        "id": "weight-ticket-validation",
+        "title": "Weight ticket validation",
+        "originalPath": "/features/weight-ticket-validation"
+      },
+      {
+        "id": "disposal-rate-audit",
+        "title": "Disposal rate audit",
+        "originalPath": "/features/disposal-rate-audit"
+      },
+      {
+        "id": "contamination-evidence",
+        "title": "Contamination evidence",
+        "originalPath": "/features/contamination-evidence"
+      },
+      {
+        "id": "fuel-surcharge-validation",
+        "title": "Fuel surcharge validation",
+        "originalPath": "/features/fuel-surcharge-validation"
+      },
+      {
+        "id": "monitoring-evidence-mapping",
+        "title": "Monitoring evidence mapping",
+        "originalPath": "/features/monitoring-evidence-mapping"
+      },
+      {
+        "id": "transaction-risk",
+        "title": "Transaction Risk Analysis",
+        "originalPath": "/features/transaction-risk"
+      },
+      {
+        "id": "auto-verify",
+        "title": "AI Auto-Verification",
+        "originalPath": "/features/auto-verify"
+      },
+      {
+        "id": "compliance-analysis",
+        "title": "AI Compliance Analysis",
+        "originalPath": "/features/compliance-analysis"
+      },
+      {
+        "id": "audit-security",
+        "title": "AI Security Analysis",
+        "originalPath": "/features/audit-security"
+      },
+      {
+        "id": "detect-fraud",
+        "title": "Detect fraud",
+        "originalPath": "/features/detect-fraud"
+      },
+      {
+        "id": "water-quality-anomaly",
+        "title": "AI · Water Anomaly",
+        "originalPath": "/features/water-quality-anomaly"
+      },
+      {
+        "id": "diver-safety-brief",
+        "title": "AI · Diver Safety",
+        "originalPath": "/features/diver-safety-brief"
+      },
+      {
+        "id": "water",
+        "title": "AI Water Quality Monitor",
+        "originalPath": "/features/water"
+      },
+      {
+        "id": "regulatory-deadline-check",
+        "title": "Regulatory Deadline Check",
+        "originalPath": "/features/regulatory-deadline-check"
+      },
+      {
+        "id": "regulatory-tracker",
+        "title": "Regulatory Tracker",
+        "originalPath": "/features/regulatory-tracker"
+      },
+      {
+        "id": "risk-assessments",
+        "title": "Risk assessments",
+        "originalPath": "/features/risk-assessments"
+      },
+      {
+        "id": "compliance",
+        "title": "Compliance",
+        "originalPath": "/features/compliance"
+      },
+      {
+        "id": "risk",
+        "title": "Risk",
+        "originalPath": "/features/risk"
+      },
+      {
+        "id": "data-validation",
+        "title": "Data validation",
+        "originalPath": "/features/data-validation"
+      },
+      {
+        "id": "customer-quality-feedback",
+        "title": "AI · Customer Quality",
+        "originalPath": "/features/customer-quality-feedback"
+      },
+      {
+        "id": "safety-incident-summary",
+        "title": "AI · Safety Summary",
+        "originalPath": "/features/safety-incident-summary"
+      },
+      {
+        "id": "bale-quality-grade",
+        "title": "AI · Bale Quality Grade",
+        "originalPath": "/features/bale-quality-grade"
+      },
+      {
+        "id": "regulatory-reporting",
+        "title": "AI · Regulatory Report",
+        "originalPath": "/features/regulatory-reporting"
+      },
+      {
+        "id": "line-camera-anomaly-narrate",
+        "title": "Line camera anomaly narrate",
+        "originalPath": "/features/line-camera-anomaly-narrate"
+      },
+      {
+        "id": "anomaly-detection",
+        "title": "Anomaly detection",
+        "originalPath": "/features/anomaly-detection"
+      },
+      {
+        "id": "batch09-gap-ai-computer-vision-pipe-inspection-from-camera-feeds",
+        "title": "Computer vision pipe inspection from camera feeds",
+        "originalPath": "/features/batch09-gap-ai-computer-vision-pipe-inspection-from-camera-feeds"
+      },
+      {
+        "id": "batch09-gap-nonai-permitregulatory-tracking-and-reporting",
+        "title": "Permitregulatory tracking and reporting",
+        "originalPath": "/features/batch09-gap-nonai-permitregulatory-tracking-and-reporting"
+      },
+      {
+        "id": "ranger-safety-brief",
+        "title": "AI · Safety Brief",
+        "originalPath": "/features/ranger-safety-brief"
+      },
+      {
+        "id": "vendor-quality-score",
+        "title": "AI · Vendor Quality",
+        "originalPath": "/features/vendor-quality-score"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "missing-pickup-detection",
+      "release-packet-gap-analysis",
+      "offset-recommendations",
+      "dashboard-insights",
+      "market-prediction",
+      "retirement-impact",
+      "audit-patterns",
+      "sustainability-insights",
+      "vintage-analyzer",
+      "buyer-recommend",
+      "double-counting-detect",
+      "additionality-scorer",
+      "supply-cap-forecast",
+      "analysis",
+      "bleaching-event-forecast",
+      "survival-predict",
+      "species-mix-recommend",
+      "energy",
+      "insights",
+      "esg-score",
+      "peer-benchmark",
+      "materiality-analysis",
+      "circular-economy",
+      "throughput-forecast",
+      "predictive-overflow",
+      "waste-prediction",
+      "waste-classification",
+      "demand-forecasting",
+      "predict-vehicle-maintenance",
+      "batch09-gap-ai-predictive-vehicle-maintenance-from-telemetry",
+      "demand-forecast",
+      "hot-zone-predict",
+      "poacher-pattern-analyze",
+      "snare-prevalence-forecast",
+      "multi-patrol-optimize",
+      "camera-trap-image-classify"
+    ],
+    "ai": true,
+    "representativeId": "missing-pickup-detection",
+    "description": "One assistant for 36 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "missing-pickup-detection",
+        "title": "Missing pickup detection",
+        "originalPath": "/features/missing-pickup-detection"
+      },
+      {
+        "id": "release-packet-gap-analysis",
+        "title": "Release packet gap analysis",
+        "originalPath": "/features/release-packet-gap-analysis"
+      },
+      {
+        "id": "offset-recommendations",
+        "title": "Offset Recommendations",
+        "originalPath": "/features/offset-recommendations"
+      },
+      {
+        "id": "dashboard-insights",
+        "title": "Dashboard AI Insights",
+        "originalPath": "/features/dashboard-insights"
+      },
+      {
+        "id": "market-prediction",
+        "title": "AI Market Prediction",
+        "originalPath": "/features/market-prediction"
+      },
+      {
+        "id": "retirement-impact",
+        "title": "Retirement Impact Analysis",
+        "originalPath": "/features/retirement-impact"
+      },
+      {
+        "id": "audit-patterns",
+        "title": "AI Pattern Detection",
+        "originalPath": "/features/audit-patterns"
+      },
+      {
+        "id": "sustainability-insights",
+        "title": "AI Sustainability Insights",
+        "originalPath": "/features/sustainability-insights"
+      },
+      {
+        "id": "vintage-analyzer",
+        "title": "Vintage Maturity Analyzer",
+        "originalPath": "/features/vintage-analyzer"
+      },
+      {
+        "id": "buyer-recommend",
+        "title": "Buyer Portal Recommender",
+        "originalPath": "/features/buyer-recommend"
+      },
+      {
+        "id": "double-counting-detect",
+        "title": "Double counting detect",
+        "originalPath": "/features/double-counting-detect"
+      },
+      {
+        "id": "additionality-scorer",
+        "title": "Additionality scorer",
+        "originalPath": "/features/additionality-scorer"
+      },
+      {
+        "id": "supply-cap-forecast",
+        "title": "Supply cap forecast",
+        "originalPath": "/features/supply-cap-forecast"
+      },
+      {
+        "id": "analysis",
+        "title": "Analysis",
+        "originalPath": "/features/analysis"
+      },
+      {
+        "id": "bleaching-event-forecast",
+        "title": "AI · Bleaching Forecast",
+        "originalPath": "/features/bleaching-event-forecast"
+      },
+      {
+        "id": "survival-predict",
+        "title": "AI · Survival Predict",
+        "originalPath": "/features/survival-predict"
+      },
+      {
+        "id": "species-mix-recommend",
+        "title": "Species mix recommend",
+        "originalPath": "/features/species-mix-recommend"
+      },
+      {
+        "id": "energy",
+        "title": "Energy Optimizer",
+        "originalPath": "/features/energy"
+      },
+      {
+        "id": "insights",
+        "title": "AI Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "esg-score",
+        "title": "ESG Composite Score",
+        "originalPath": "/features/esg-score"
+      },
+      {
+        "id": "peer-benchmark",
+        "title": "Peer Benchmarking",
+        "originalPath": "/features/peer-benchmark"
+      },
+      {
+        "id": "materiality-analysis",
+        "title": "Materiality Analysis",
+        "originalPath": "/features/materiality-analysis"
+      },
+      {
+        "id": "circular-economy",
+        "title": "Circular Economy Optimization",
+        "originalPath": "/features/circular-economy"
+      },
+      {
+        "id": "throughput-forecast",
+        "title": "Throughput forecast",
+        "originalPath": "/features/throughput-forecast"
+      },
+      {
+        "id": "predictive-overflow",
+        "title": "Predictive overflow",
+        "originalPath": "/features/predictive-overflow"
+      },
+      {
+        "id": "waste-prediction",
+        "title": "Waste prediction",
+        "originalPath": "/features/waste-prediction"
+      },
+      {
+        "id": "waste-classification",
+        "title": "Waste classification",
+        "originalPath": "/features/waste-classification"
+      },
+      {
+        "id": "demand-forecasting",
+        "title": "Demand forecasting",
+        "originalPath": "/features/demand-forecasting"
+      },
+      {
+        "id": "predict-vehicle-maintenance",
+        "title": "Predict vehicle maintenance",
+        "originalPath": "/features/predict-vehicle-maintenance"
+      },
+      {
+        "id": "batch09-gap-ai-predictive-vehicle-maintenance-from-telemetry",
+        "title": "Predictive vehicle maintenance from telemetry",
+        "originalPath": "/features/batch09-gap-ai-predictive-vehicle-maintenance-from-telemetry"
+      },
+      {
+        "id": "demand-forecast",
+        "title": "Demand forecast",
+        "originalPath": "/features/demand-forecast"
+      },
+      {
+        "id": "hot-zone-predict",
+        "title": "AI · Hot-Zone Predict",
+        "originalPath": "/features/hot-zone-predict"
+      },
+      {
+        "id": "poacher-pattern-analyze",
+        "title": "AI · Pattern Analyze",
+        "originalPath": "/features/poacher-pattern-analyze"
+      },
+      {
+        "id": "snare-prevalence-forecast",
+        "title": "Snare prevalence forecast",
+        "originalPath": "/features/snare-prevalence-forecast"
+      },
+      {
+        "id": "multi-patrol-optimize",
+        "title": "Multi patrol optimize",
+        "originalPath": "/features/multi-patrol-optimize"
+      },
+      {
+        "id": "camera-trap-image-classify",
+        "title": "Camera trap image classify",
+        "originalPath": "/features/camera-trap-image-classify"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "scheduled-service-calendar",
+      "capacity-utilization-brief",
+      "batch09-cfs-predictive-bin-overflow-with-proactive-scheduling",
+      "batch09-gap-ai-preventive-maintenance-scheduling-ai",
+      "patrol-dispatch"
+    ],
+    "ai": true,
+    "representativeId": "scheduled-service-calendar",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "scheduled-service-calendar",
+        "title": "Scheduled service calendar",
+        "originalPath": "/features/scheduled-service-calendar"
+      },
+      {
+        "id": "capacity-utilization-brief",
+        "title": "AI · Capacity Brief",
+        "originalPath": "/features/capacity-utilization-brief"
+      },
+      {
+        "id": "batch09-cfs-predictive-bin-overflow-with-proactive-scheduling",
+        "title": "Predictive bin overflow with proactive scheduling",
+        "originalPath": "/features/batch09-cfs-predictive-bin-overflow-with-proactive-scheduling"
+      },
+      {
+        "id": "batch09-gap-ai-preventive-maintenance-scheduling-ai",
+        "title": "Preventive maintenance scheduling ai",
+        "originalPath": "/features/batch09-gap-ai-preventive-maintenance-scheduling-ai"
+      },
+      {
+        "id": "patrol-dispatch",
+        "title": "AI · Patrol Dispatch",
+        "originalPath": "/features/patrol-dispatch"
+      }
+    ]
+  }
+]

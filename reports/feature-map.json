@@ -1,0 +1,4963 @@
+{
+  "mapped": [
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "EmissionFacility",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "emission-facility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "EmissionUnit",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "emission-unit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "PermitCondition",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "permit-condition",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "ActivityReading",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "activity-reading",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "EmissionFactor",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "emission-factor",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "StackTest",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "stack-test",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "ControlDevice",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "control-device",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "DeviationEvent",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "deviation-event",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "EmissionReport",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "emission-report",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "permit-condition-extraction",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "permit-condition-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "activity-evidence-reconciliation",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "activity-evidence-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "stack-test-comparison",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "stack-test-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "deviation-narrative-draft",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "deviation-narrative-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "control-device-maintenance-brief",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "control-device-maintenance-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "annual-report-narrative",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "annual-report-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cbam-import-cost-compliance",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-cbam-import-cost-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cbam-import-cost-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-cbam-import-cost-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "ProtectedProperty",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "protected-property",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "EasementTerm",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "easement-term",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "BaselineReport",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "baseline-report",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "StewardshipVisit",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "stewardship-visit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "LandownerContact",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "landowner-contact",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "UseRequest",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "use-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "PotentialViolation",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "potential-violation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "RestorationAction",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "restoration-action",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "StewardshipExpense",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "stewardship-expense",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "easement-term-extraction",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "easement-term-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "visit-versus-baseline-comparison",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "visit-versus-baseline-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "landowner-letter-draft",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "landowner-letter-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "use-request-evidence-summary",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "use-request-evidence-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "violation-chronology-draft",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "violation-chronology-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "annual-stewardship-narrative",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "annual-stewardship-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "SafetyAsset",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "safety-asset",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "EngineeringInspection",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "engineering-inspection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "Instrument",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "instrument",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "InstrumentReading",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "instrument-reading",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "ActionThreshold",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "action-threshold",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "CorrectiveAction",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "corrective-action",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "EmergencyPlan",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "emergency-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "EmergencyExercise",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "emergency-exercise",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "AssetMaintenance",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "asset-maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "engineer-observation-summary",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "engineer-observation-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "instrument-anomaly-explanation",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "instrument-anomaly-explanation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "corrective-action-draft",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "corrective-action-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "emergency-plan-completeness-review",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "emergency-plan-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "exercise-lessons-summary",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "exercise-lessons-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "annual-safety-program-narrative",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "annual-safety-program-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-stormwater-npdes-compliance",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-industrial-stormwater-npdes-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-stormwater-npdes-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-industrial-stormwater-npdes-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-stormwater-npdes-compliance",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-industrial-stormwater-npdes-compliance/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "DischargeFacility",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "discharge-facility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "DischargePoint",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "discharge-point",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "EffluentLimit",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "effluent-limit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "EffluentSample",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "effluent-sample",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "FlowReading",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "flow-reading",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "LabCustody",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "lab-custody",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "PretreatmentAsset",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "pretreatment-asset",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "DischargeIncident",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "discharge-incident",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "DischargeReport",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "discharge-report",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "permit-limit-extraction",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "permit-limit-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "sample-discrepancy-review",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "sample-discrepancy-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "custody-completeness-check",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "custody-completeness-check",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "pretreatment-maintenance-summary",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "pretreatment-maintenance-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "discharge-incident-narrative",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "discharge-incident-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "monitoring-report-draft",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "monitoring-report-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "DosimetryProgram",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "dosimetry-program",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "MonitoredWorker",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "monitored-worker",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "DosimeterBadge",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "dosimeter-badge",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "DoseResult",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "dose-result",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "PriorExposure",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "prior-exposure",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "DoseThreshold",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "dose-threshold",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "DoseInvestigation",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "dose-investigation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "WorkerAcknowledgement",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "worker-acknowledgement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "VendorReconciliation",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "vendor-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "vendor-report-extraction",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "vendor-report-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "badge-assignment-reconciliation",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "badge-assignment-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "cumulative-exposure-record-summary",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "cumulative-exposure-record-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "missing-report-follow-up",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "missing-report-follow-up",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "investigation-narrative",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "investigation-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "worker-report-explanation",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "worker-report-explanation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-epr-compliance",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-packaging-epr-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-epr-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-packaging-epr-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-epr-compliance",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-packaging-epr-compliance/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pfas-tsca-reporting",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-pfas-tsca-reporting/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pfas-tsca-reporting",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-pfas-tsca-reporting/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pfas-tsca-reporting",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-pfas-tsca-reporting/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "WasteProgram",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "waste-program",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "WastePackage",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "waste-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "WasteAddition",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "waste-addition",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "StorageSurvey",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "storage-survey",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "PackageInspection",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "package-inspection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "WasteTransfer",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "waste-transfer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "WasteManifest",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "waste-manifest",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "DisposalReceipt",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "disposal-receipt",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "WasteIncident",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "waste-incident",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "manifest-extraction",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "manifest-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "package-inventory-reconciliation",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "package-inventory-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "survey-evidence-completeness",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "survey-evidence-completeness",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "transfer-packet-preparation",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "transfer-packet-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "incident-chronology",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "incident-chronology",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "waste-program-report-draft",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "waste-program-report-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "recycler-contract-library",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "recycler-contract-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "commodity-grade-registry",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "commodity-grade-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "container-pickup-tracking",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "container-pickup-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "scale-ticket-ingestion",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "scale-ticket-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "gross-tare-net-validation",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "gross-tare-net-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "moisture-deduction-audit",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "moisture-deduction-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "contamination-deduction-audit",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "contamination-deduction-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "commodity-index-pricing",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "commodity-index-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "recovery-percentage-validation",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "recovery-percentage-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "hauling-fee-audit",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "hauling-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "floor-price-control",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "floor-price-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "settlement-matching",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "settlement-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "missing-pickup-detection",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "missing-pickup-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "recycler-claim-workflow",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "recycler-claim-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "plant-commodity-analytics",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/app.config.mjs",
+      "canonical": "plant-commodity-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "RecyclingVessel",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "recycling-vessel",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "VesselComponent",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "vessel-component",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "MaterialDeclaration",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "material-declaration",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "SupplierDeclaration",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "supplier-declaration",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "HazardSample",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "hazard-sample",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "IhmSurvey",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "ihm-survey",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "RecyclingFacility",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "recycling-facility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "RecyclingPlan",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "recycling-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "RecyclingTransfer",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "recycling-transfer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "material-declaration-extraction",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "material-declaration-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "supplier-evidence-gap-review",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "supplier-evidence-gap-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "ihm-discrepancy-summary",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "ihm-discrepancy-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "survey-preparation-draft",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "survey-preparation-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "recycling-plan-evidence-review",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "recycling-plan-evidence-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "material-handoff-narrative",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "material-handoff-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "hauling-contract-library",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "hauling-contract-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "location-container-registry",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "location-container-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "scheduled-service-calendar",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "scheduled-service-calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "service-event-ingestion",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "service-event-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "missed-pickup-credit",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "missed-pickup-credit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "haul-charge-calculation",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "haul-charge-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "weight-ticket-validation",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "weight-ticket-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "disposal-rate-audit",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "disposal-rate-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "contamination-evidence",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "contamination-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "fuel-surcharge-validation",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "fuel-surcharge-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "environmental-fee-control",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "environmental-fee-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "invoice-recalculation",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "invoice-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "hauler-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "hauler-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "location-waste-analytics",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/app.config.mjs",
+      "canonical": "location-waste-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "WaterAccount",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "water-account",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "WaterEntitlement",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "water-entitlement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "DiversionPoint",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "diversion-point",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "MeterReading",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "meter-reading",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "WaterTransfer",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "water-transfer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "WaterDelivery",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "water-delivery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "CurtailmentNotice",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "curtailment-notice",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "WaterOrder",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "water-order",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "SeasonReconciliation",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "season-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "permit-restriction-extraction",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "permit-restriction-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "diversion-reading-reconciliation",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "diversion-reading-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "transfer-packet-review",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "transfer-packet-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "curtailment-summary",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "curtailment-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "delivery-variance-explanation",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "delivery-variance-explanation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "season-reconciliation-narrative",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "season-reconciliation-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "MitigationBank",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "mitigation-bank",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "MitigationParcel",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "mitigation-parcel",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "CreditRelease",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "credit-release",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "CreditSale",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "credit-sale",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "MonitoringPlot",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "monitoring-plot",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "PlotObservation",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "plot-observation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "PerformanceCriterion",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "performance-criterion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "AdaptiveAction",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "adaptive-action",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "FinancialAssurance",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "financial-assurance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "monitoring-evidence-mapping",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "monitoring-evidence-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "credit-ledger-discrepancy-brief",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "credit-ledger-discrepancy-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "performance-observation-summary",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "performance-observation-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "adaptive-management-draft",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "adaptive-management-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "release-packet-gap-analysis",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "release-packet-gap-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "stewardship-report-draft",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "stewardship-report-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBiocharSoilCarbonSequestrationTracker",
+      "sourceKey": "AIBiocharSoilCarbonSequestrationTracker",
+      "source": "/Volumes/external/projects/AIBiocharSoilCarbonSequestrationTracker",
+      "canonical": "aibiochar-soil-carbon-sequestration-tracker",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Carbon Credits",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "carbon-credits",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Transactions",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "transactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Offset Projects",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "offset-projects",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Verifications",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "verifications",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Emissions Tracker",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "emissions-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Market Analytics",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "market-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Credit Retirements",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "credit-retirements",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Compliance Reports",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "compliance-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Audit Trail",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "audit-trail",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Offset Recommendations",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "offset-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "Sustainability Reports",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "sustainability-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "dashboard-insights",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "dashboard-insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "credit-quality",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "credit-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "price-suggestion",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "price-suggestion",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "transaction-risk",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "transaction-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "project-impact",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "project-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "auto-verify",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "auto-verify",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "carbon-calculator",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "carbon-calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "reduction-plan",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "reduction-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "market-prediction",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "market-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "retirement-impact",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "retirement-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "certificate-summary",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "certificate-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "compliance-analysis",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "compliance-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "audit-security",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "audit-security",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "audit-patterns",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "audit-patterns",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "offset-recommendations",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "offset-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "sustainability-insights",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/App.js",
+      "canonical": "sustainability-insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "additionality-validator",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/pages/AIStudio.js",
+      "canonical": "additionality-validator",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "vintage-analyzer",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/pages/AIStudio.js",
+      "canonical": "vintage-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "market-predictor",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/pages/AIStudio.js",
+      "canonical": "market-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "compliance-reporter",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/pages/AIStudio.js",
+      "canonical": "compliance-reporter",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "certification-tracker",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/pages/AIStudio.js",
+      "canonical": "certification-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "impact-verifier",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/pages/AIStudio.js",
+      "canonical": "impact-verifier",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "supply-chain-tracer",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/pages/AIStudio.js",
+      "canonical": "supply-chain-tracer",
+      "kind": "definition"
+    },
+    {
+      "project": "AICarbonCreditMarketplaceVerifier",
+      "sourceKey": "buyer-recommend",
+      "source": "/Volumes/external/projects/AICarbonCreditMarketplaceVerifier/client/src/pages/AIStudio.js",
+      "canonical": "buyer-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "public/retirements",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "public-retirements",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "projects",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "matters",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "credits",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "credits",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "holders",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "holders",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "verifiers",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "verifiers",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "transactions",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "transactions",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "audits",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "audits",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "methodologies",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "methodologies",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "issuances",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "issuances",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "retirements",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "public-retirements",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "beneficiaries",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "beneficiaries",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "scopes-emissions",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "scopes-emissions",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "scoreboard",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "scoreboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "jurisdictional-baselines",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "jurisdictional-baselines",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "satellite-imagery",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "satellite-imagery",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "smr-reports",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "smr-reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "claims",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "claims",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "biodiversity-cobenefits",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "biodiversity-cobenefits",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "finance-ledger",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "finance-ledger",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/verify-project",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "verify-project",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/synthesize-mrv",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "synthesize-mrv",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/detect-fraud",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "detect-fraud",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/analyze-pricing",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "analyze-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/map-methodology",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "map-methodology",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/draft-disclosure",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "draft-disclosure",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/leakage-modeler",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "leakage-modeler",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/satellite-mrv",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "satellite-mrv",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/double-counting-detect",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "double-counting-detect",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/additionality-scorer",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "additionality-scorer",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/registry-arbitrage",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "registry-arbitrage",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/price-discovery",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "price-discovery",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/biodiversity-co-benefit",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "biodiversity-co-benefit",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/climate-claim-validator",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "climate-claim-validator",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/supply-cap-forecast",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "supply-cap-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/scope-3-attributor",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "scope-3-attributor",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "bulk-import",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "bulk-import",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/mrv-document-validate",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "mrv-document-validate",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/narrative-evidence-reconcile",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "narrative-evidence-reconcile",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/aml-screen-transaction",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "aml-screen-transaction",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "ai/project-rating",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "project-rating",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "corresponding-adjustments",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "corresponding-adjustments",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "project-ratings",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "project-ratings",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "registry-interop",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "registry-interop",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "issuance-chain",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "issuance-chain",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "sourceKey": "retirement-certificate-pack",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "canonical": "retirement-certificate-pack",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "sourceKey": "climate-patterns",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "canonical": "climate-patterns",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "sourceKey": "alerts",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "canonical": "alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "sourceKey": "ai-analysis",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "canonical": "analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "sourceKey": "community-risk-matrix",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "canonical": "community-risk-matrix",
+      "kind": "route"
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/reef-sites",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "reef-sites",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/nurseries",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "nurseries",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/fragments",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "fragments",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/outplants",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "outplants",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/monitoring-visits",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "monitoring-visits",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/bleaching-events",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "bleaching-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/water-quality",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "water-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/fish-counts",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "fish-counts",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/divers",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "divers",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/weather-logs",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "weather-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/vessels",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "vessels",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/propagation-runs",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "propagation-runs",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/partners",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "partners",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/grants",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "grants",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/publications",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "publications",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/training-sessions",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "training-sessions",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/bleaching-event-forecast",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "bleaching-event-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/fragment-health-vision",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "fragment-health-vision",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/survival-predict",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "survival-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/restoration-prioritize",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "restoration-prioritize",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/water-quality-anomaly",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "water-quality-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/diver-safety-brief",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "diver-safety-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/partner-impact-report",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "partner-impact-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/grant-application-draft",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "grant-application-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/propagation-success-rate",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "propagation-success-rate",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/vessel-routing",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "vessel-routing",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/weather-dive-window",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "weather-dive-window",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/species-id-fish",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "species-id-fish",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/publication-summary",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "publication-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/training-gap-analysis",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "training-gap-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "/ai/donor-narrative",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker/frontend/src/pages/Dashboard.js",
+      "canonical": "donor-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "ai/reef-heat-stress-plan",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "reef-heat-stress-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "ai/species-mix-recommend",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "species-mix-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "ai/growth-rate-model",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "growth-rate-model",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "ai/genotype-rescue-match",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "genotype-rescue-match",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "dive-logs",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "dive-logs",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "citizen-submissions",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "citizen-submissions",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "citizen-portal",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "citizen-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "fragment-lineage",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "fragment-lineage",
+      "kind": "route"
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "sourceKey": "noaa-crw",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "canonical": "noaa-crw",
+      "kind": "route"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/weather",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/carbon",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "carbon",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/recycling",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "recycling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/energy",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "energy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/water",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "water-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/goals",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "goals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/map",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "map",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/ai-insights",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/ai-results",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/feedback",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/contact",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "/admin",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "canonical": "admin",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "weather",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "carbon",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "canonical": "carbon",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "recycling",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "canonical": "recycling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "energy",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "canonical": "energy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "water",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "canonical": "water",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "feedback",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "canonical": "feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "ai-results",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "community-carbon-budget",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "canonical": "community-carbon-budget",
+      "kind": "route"
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "sourceKey": "ai-backlog",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "canonical": "backlog",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "esg-score",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "esg-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "regulatory-deadline-check",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "regulatory-deadline-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "peer-benchmark",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "peer-benchmark",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "materiality-analysis",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "materiality-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "certification-roadmap",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "certification-roadmap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "scope3-automation",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "scope3-automation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "investor-update",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "investor-update",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "regulatory-tracker",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "regulatory-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "circular-economy",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "circular-economy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "net-zero-roadmap",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter/frontend/src/pages/AINewPage.js",
+      "canonical": "net-zero-roadmap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "assurance-readiness",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "assurance-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "esg-reports",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "esg-reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "carbon-footprints",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "carbon-footprints",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "sustainability-metrics",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "sustainability-metrics",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "regulatory-compliance",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "regulatory-compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "supply-chain",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "supply-chain",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "risk-assessments",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "risk-assessments",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "greenwashing",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "greenwashing",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "stakeholder-reports",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "stakeholder-reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "data-validations",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "data-validations",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "climate-scenarios",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "climate-scenarios",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "biodiversity",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "biodiversity",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "water-usage",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "water-usage",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "energy-audits",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "energy-audits",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "social-impact",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "social-impact",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "governance",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "governance",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/esg-report",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "esg-report",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/carbon",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "carbon",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/sustainability",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "sustainability",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/compliance",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/supply-chain",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "supply-chain",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/risk",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/greenwashing",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "greenwashing",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/stakeholder",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "stakeholder",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/data-validation",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "data-validation",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/climate",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "climate",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/biodiversity",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "biodiversity",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/water",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "water",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/energy",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "energy",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/social",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "social",
+      "kind": "route"
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "sourceKey": "ai/governance",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "canonical": "governance",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/loads-in",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "loads-in",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/contamination-logs",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "contamination-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/bales",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "bales",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/loads-out",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "loads-out",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/contracts",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/commodities",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "commodities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/prices",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "prices",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/drivers",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "drivers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/vehicles",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "vehicles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/sortation-lines",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "sortation-lines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/downtime-events",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "downtime-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/operators",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "operators",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/safety-incidents",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "safety-incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/training-records",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "training-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/contamination-vision-score",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "contamination-vision-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/commodity-price-forecast",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "commodity-price-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/sortation-line-balance",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "sortation-line-balance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/downtime-rca",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "downtime-rca",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/customer-quality-feedback",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "customer-quality-feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/vendor-quote-compare",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "vendor-quote-compare",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/route-pickup-optimize",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "route-pickup-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/safety-incident-summary",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "safety-incident-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/training-needs",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "training-needs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/hauler-payment-recon",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "hauler-payment-recon",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/capacity-utilization-brief",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "capacity-utilization-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/equipment-prognostic",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment-prognostic",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/bale-quality-grade",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "bale-quality-grade",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/regulatory-reporting",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "regulatory-reporting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "/ai/scrap-market-brief",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps/frontend/src/pages/Dashboard.js",
+      "canonical": "scrap-market-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "producers",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "producers",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "sku-obligations",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "sku-obligations",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "epr-filings",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "epr-filings",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "scale-tickets",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "scale-tickets",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "routes",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "routes",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "route-stops",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "route-stops",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "buyers",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "buyers",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "buyer-specs",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "buyer-specs",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "ai/line-camera-anomaly-narrate",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "line-camera-anomaly-narrate",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "ai/throughput-forecast",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "throughput-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "ai/end-market-match",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "end-market-match",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "ai/contamination-report-card",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "contamination-report-card",
+      "kind": "route"
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "anomaly-completion",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "anomaly-completion",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "dynamic-pricing",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "dynamic-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "driver-leaderboard",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "driver-leaderboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "contamination-detect",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "contamination-detect",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "predictive-overflow",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "predictive-overflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "compliance-check",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "compliance-check",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "carbon-credits",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "carbon-credits",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "routes",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "routes",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "bins",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "bins",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "vehicles",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "vehicles",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "schedules",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "schedules",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "zones",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "zones",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "drivers",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "drivers",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "alerts",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "ai/waste-prediction",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "waste-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "ai/waste-classification",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "waste-classification",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "ai/cost-analysis",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "cost-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "ai/environmental-impact",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "environmental-impact",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "ai/recycling-analytics",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "recycling-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "ai/anomaly-detection",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "anomaly-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "ai/demand-forecasting",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "ai/predict-vehicle-maintenance",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "predict-vehicle-maintenance",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "ai/driver-coaching",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "driver-coaching",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/cfs/real-time-anomaly-detection-on-collection-completion",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-cfs-real-time-anomaly-detection-on-collection-completion",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/cfs/dynamic-pricing-by-neighborhood-demand-and-waste-stream",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-cfs-dynamic-pricing-by-neighborhood-demand-and-waste-stream",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/cfs/driver-performance-leaderboard-with-ai-coaching",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-cfs-driver-performance-leaderboard-with-ai-coaching",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/cfs/smart-contamination-detection-in-recycling-streams-vision-io",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-cfs-smart-contamination-detection-in-recycling-streams-vision-io",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/cfs/predictive-bin-overflow-with-proactive-scheduling",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-cfs-predictive-bin-overflow-with-proactive-scheduling",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/cfs/municipal-regulation-compliance-automation",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-cfs-municipal-regulation-compliance-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/cfs/carbon-credit-marketplace-integration",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-cfs-carbon-credit-marketplace-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/gap-ai/predictive-vehicle-maintenance-from-telemetry",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-gap-ai-predictive-vehicle-maintenance-from-telemetry",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/gap-ai/ai-powered-driver-route-coaching-and-fuel-efficiency-feedbac",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-gap-ai-ai-powered-driver-route-coaching-and-fuel-efficiency-feedbac",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/gap-ai/computer-vision-bin-condition-assessment",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-gap-ai-computer-vision-bin-condition-assessment",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/gap-nonai/customerresident-portal-for-service-requests",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-gap-nonai-customerresident-portal-for-service-requests",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/gap-nonai/billinginvoicing-for-commercial-accounts",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-gap-nonai-billinginvoicing-for-commercial-accounts",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/gap-nonai/complaint-and-missed-pickup-ticketing",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-gap-nonai-complaint-and-missed-pickup-ticketing",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/gap-nonai/real-time-gps-tracking-dashboard-with-live-etas",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-gap-nonai-real-time-gps-tracking-dashboard-with-live-etas",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/gap-nonai/hazardous-waste-manifest-tracking",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-gap-nonai-hazardous-waste-manifest-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "sourceKey": "batch09/gap-nonai/driver-mobile-app-endpoints",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "canonical": "batch09-gap-nonai-driver-mobile-app-endpoints",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "sensor-fusion",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "sensor-fusion",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "demand-nowcast",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "demand-nowcast",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "conservation-incentives",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "conservation-incentives",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "main-break-response",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "main-break-response",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "public-quality-snapshot",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "public-quality-snapshot",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "smart-meter-rollout",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "smart-meter-rollout",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "leak-detection",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "leak-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "demand-forecast",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "demand-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "water-quality",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "water-quality",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "infrastructure-aging",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "infrastructure-aging",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "anomaly-detection",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "anomaly-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "treatment-optimization",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "treatment-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "customers",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "clients",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "meter-readings",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "meter-readings",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "work-orders",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "work-orders",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "pipe-inventory",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "pipe-inventory",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "pump-stations",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "pump-stations",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "reservoirs",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "reservoirs",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "emergency-response",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "emergency-response",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "ai-insights",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "insights",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/cfs/real-time-multi-sensor-fusion-flow-pressure-chlorine-turbidi",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-cfs-real-time-multi-sensor-fusion-flow-pressure-chlorine-turbidi",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/cfs/water-demand-nowcasting-from-weather-events-time-of-day",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-cfs-water-demand-nowcasting-from-weather-events-time-of-day",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/cfs/meter-analytics-driving-conservation-incentive-programs",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-cfs-meter-analytics-driving-conservation-incentive-programs",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/cfs/emergency-response-integration-for-main-breaks",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-cfs-emergency-response-integration-for-main-breaks",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/cfs/public-water-quality-dashboard",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-cfs-public-water-quality-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/cfs/smart-meter-rollout-orchestration-with-hand-off-to-billing",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-cfs-smart-meter-rollout-orchestration-with-hand-off-to-billing",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/gap-ai/preventive-maintenance-scheduling-ai",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-gap-ai-preventive-maintenance-scheduling-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/gap-ai/customer-segment-demand-modeling",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-gap-ai-customer-segment-demand-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/gap-ai/computer-vision-pipe-inspection-from-camera-feeds",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-gap-ai-computer-vision-pipe-inspection-from-camera-feeds",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/gap-nonai/customer-billing-and-meter-to-cash-flow",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-gap-nonai-customer-billing-and-meter-to-cash-flow",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/gap-nonai/service-disruption-notification-smsemail",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-gap-nonai-service-disruption-notification-smsemail",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/gap-nonai/full-gis-map-integration-for-pipe-network",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-gap-nonai-full-gis-map-integration-for-pipe-network",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/gap-nonai/permitregulatory-tracking-and-reporting",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-gap-nonai-permitregulatory-tracking-and-reporting",
+      "kind": "route"
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "sourceKey": "batch09/gap-nonai/public-facing-transparency-portal",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "canonical": "batch09-gap-nonai-public-facing-transparency-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/rangers",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "rangers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/patrols",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "patrols",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/camera-traps",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "camera-traps",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/snare-finds",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "snare-finds",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/animal-sightings",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "animal-sightings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/species-profiles",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "species-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/poacher-incidents",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "poacher-incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/weapons-recovered",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "weapons-recovered",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/court-cases",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "court-cases",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ranger-shifts",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "ranger-shifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/vehicles",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "vehicles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/drones",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "drones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/comms-devices",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "comms-devices",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/supplies",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "supplies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/training-records",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "training-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/parks",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "parks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/gates",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "gates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/species-id-from-image",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "species-id-fish",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/patrol-dispatch",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "patrol-dispatch",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/hot-zone-predict",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "hot-zone-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/snare-density-heatmap",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "snare-density-heatmap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/poacher-pattern-analyze",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "poacher-pattern-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/ranger-safety-brief",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "ranger-safety-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/court-case-summary",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "court-case-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/drone-flight-plan",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "drone-flight-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/vehicle-routing",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "vehicle-routing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/training-gap-analysis",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "training-gap-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/communication-plan",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "communication-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/weather-impact-patrol",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "weather-impact-patrol",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/supply-resupply-plan",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "supply-resupply-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/vendor-quality-score",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "vendor-quality-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "/ai/donor-impact-report",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps/frontend/src/pages/Dashboard.js",
+      "canonical": "donor-impact-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "ai/intel-report-summarize",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "canonical": "intel-report-summarize",
+      "kind": "route"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "ai/incident-narrator",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "canonical": "incident-narrator",
+      "kind": "route"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "ai/snare-prevalence-forecast",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "canonical": "snare-prevalence-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "ai/multi-patrol-optimize",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "canonical": "multi-patrol-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "ai/camera-trap-image-classify",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "canonical": "camera-trap-image-classify",
+      "kind": "route"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "community-reports",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "canonical": "community-reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "anonymous-tips",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "canonical": "anonymous-tips",
+      "kind": "route"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "partner-integrations",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "canonical": "partner-integrations",
+      "kind": "route"
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "waste-management-route-compliance-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/waste-management-route-compliance-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "waste-management-route-compliance-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/waste-management-route-compliance-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "water-utility-asset-compliance-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/water-utility-asset-compliance-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "water-utility-asset-compliance-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/water-utility-asset-compliance-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-air-emissions-permit-operations",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-air-emissions-permit-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-cbam-import-cost-compliance",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-cbam-import-cost-compliance/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-conservation-easement-stewardship",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-conservation-easement-stewardship/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-dam-and-levee-safety-program",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-dam-and-levee-safety-program/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-industrial-wastewater-pretreatment-control",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-industrial-wastewater-pretreatment-control/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-occupational-radiation-dose-records",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-occupational-radiation-dose-records/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-radioactive-waste-lifecycle-records",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-radioactive-waste-lifecycle-records/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-scrap-metal-recycling-revenue-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-scrap-metal-recycling-revenue-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-ship-recycling-and-hazardous-materials-inventory",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-ship-recycling-and-hazardous-materials-inventory/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-waste-hauling-invoice-contract-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-waste-hauling-invoice-contract-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-water-rights-allocation-ledger",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-water-rights-allocation-ledger/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-wetland-mitigation-bank-operations",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-wetland-mitigation-bank-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIClimateFinanceCarbonRegistry",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimateFinanceCarbonRegistry",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIClimatePatternForecaster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIClimatePatternForecaster",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "key": "login",
+      "source": "/Volumes/external/projects/AICoralReefRestorationTracker",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICoralReefRestorationTracker",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "/search",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/components/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor/client/src/pages/Dashboard.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "privacy",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "terms",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIEnvironmentMonitor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEnvironmentMonitor",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "key": "ai/advanced",
+      "source": "/Volumes/external/projects/AIESGSustainabilityReporter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIESGSustainabilityReporter",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIRecyclingMRFOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRecyclingMRFOps",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIWasteManagementRouteOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWasteManagementRouteOptimizer",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIWaterUtilityManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWaterUtilityManagement",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIWildlifeAntiPoachingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWildlifeAntiPoachingOps",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "waste-management-route-compliance-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/waste-management-route-compliance-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "waste-management-route-compliance-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/waste-management-route-compliance-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "water-utility-asset-compliance-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/water-utility-asset-compliance-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "water-utility-asset-compliance-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/water-utility-asset-compliance-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "recycler-contract-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commodity-grade-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "container-pickup-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "scale-ticket-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gross-tare-net-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "moisture-deduction-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contamination-deduction-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commodity-index-pricing",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recovery-percentage-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "hauling-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "floor-price-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missing-pickup-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recycler-claim-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plant-commodity-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "hauling-contract-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "location-container-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "scheduled-service-calendar",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-event-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missed-pickup-credit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "haul-charge-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "weight-ticket-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "disposal-rate-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contamination-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fuel-surcharge-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "environmental-fee-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "hauler-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "location-waste-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "AIBiocharSoilCarbonSequestrationTracker",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

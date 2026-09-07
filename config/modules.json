@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ai-air-emissions-permit-operations",
+    "name": "Air emissions permit operations",
+    "sourceProject": "ai-air-emissions-permit-operations",
+    "services": []
+  },
+  {
+    "id": "ai-cbam-import-cost-compliance",
+    "name": "Cbam import cost compliance",
+    "sourceProject": "ai-cbam-import-cost-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-conservation-easement-stewardship",
+    "name": "Conservation easement stewardship",
+    "sourceProject": "ai-conservation-easement-stewardship",
+    "services": []
+  },
+  {
+    "id": "ai-dam-and-levee-safety-program",
+    "name": "Dam and levee safety program",
+    "sourceProject": "ai-dam-and-levee-safety-program",
+    "services": []
+  },
+  {
+    "id": "ai-industrial-stormwater-npdes-compliance",
+    "name": "Industrial stormwater npdes compliance",
+    "sourceProject": "ai-industrial-stormwater-npdes-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-industrial-wastewater-pretreatment-control",
+    "name": "Industrial wastewater pretreatment control",
+    "sourceProject": "ai-industrial-wastewater-pretreatment-control",
+    "services": []
+  },
+  {
+    "id": "ai-occupational-radiation-dose-records",
+    "name": "Occupational radiation dose records",
+    "sourceProject": "ai-occupational-radiation-dose-records",
+    "services": []
+  },
+  {
+    "id": "ai-packaging-epr-compliance",
+    "name": "Packaging epr compliance",
+    "sourceProject": "ai-packaging-epr-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-pfas-tsca-reporting",
+    "name": "Pfas tsca reporting",
+    "sourceProject": "ai-pfas-tsca-reporting",
+    "services": []
+  },
+  {
+    "id": "ai-radioactive-waste-lifecycle-records",
+    "name": "Radioactive waste lifecycle records",
+    "sourceProject": "ai-radioactive-waste-lifecycle-records",
+    "services": []
+  },
+  {
+    "id": "ai-scrap-metal-recycling-revenue-reconciliation",
+    "name": "Scrap metal recycling revenue reconciliation",
+    "sourceProject": "ai-scrap-metal-recycling-revenue-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-ship-recycling-and-hazardous-materials-inventory",
+    "name": "Ship recycling and hazardous materials inventory",
+    "sourceProject": "ai-ship-recycling-and-hazardous-materials-inventory",
+    "services": []
+  },
+  {
+    "id": "ai-waste-hauling-invoice-contract-audit",
+    "name": "Waste hauling invoice contract audit",
+    "sourceProject": "ai-waste-hauling-invoice-contract-audit",
+    "services": []
+  },
+  {
+    "id": "ai-water-rights-allocation-ledger",
+    "name": "Water rights allocation ledger",
+    "sourceProject": "ai-water-rights-allocation-ledger",
+    "services": []
+  },
+  {
+    "id": "ai-wetland-mitigation-bank-operations",
+    "name": "Wetland mitigation bank operations",
+    "sourceProject": "ai-wetland-mitigation-bank-operations",
+    "services": []
+  },
+  {
+    "id": "AIBiocharSoilCarbonSequestrationTracker",
+    "name": "Biochar soil carbon sequestration tracker",
+    "sourceProject": "AIBiocharSoilCarbonSequestrationTracker",
+    "services": []
+  },
+  {
+    "id": "AICarbonCreditMarketplaceVerifier",
+    "name": "Carbon credit marketplace verifier",
+    "sourceProject": "AICarbonCreditMarketplaceVerifier",
+    "services": []
+  },
+  {
+    "id": "AIClimateFinanceCarbonRegistry",
+    "name": "Climate finance carbon registry",
+    "sourceProject": "AIClimateFinanceCarbonRegistry",
+    "services": []
+  },
+  {
+    "id": "AIClimatePatternForecaster",
+    "name": "Climate pattern forecaster",
+    "sourceProject": "AIClimatePatternForecaster",
+    "services": []
+  },
+  {
+    "id": "AICoralReefRestorationTracker",
+    "name": "Coral reef restoration tracker",
+    "sourceProject": "AICoralReefRestorationTracker",
+    "services": []
+  },
+  {
+    "id": "AIEnvironmentMonitor",
+    "name": "Environment monitor",
+    "sourceProject": "AIEnvironmentMonitor",
+    "services": []
+  },
+  {
+    "id": "AIESGSustainabilityReporter",
+    "name": "Esgsustainability reporter",
+    "sourceProject": "AIESGSustainabilityReporter",
+    "services": []
+  },
+  {
+    "id": "AIRecyclingMRFOps",
+    "name": "Recycling mrfops",
+    "sourceProject": "AIRecyclingMRFOps",
+    "services": []
+  },
+  {
+    "id": "AIWasteManagementRouteOptimizer",
+    "name": "Waste management route optimizer",
+    "sourceProject": "AIWasteManagementRouteOptimizer",
+    "services": []
+  },
+  {
+    "id": "AIWaterUtilityManagement",
+    "name": "Water utility management",
+    "sourceProject": "AIWaterUtilityManagement",
+    "services": []
+  },
+  {
+    "id": "AIWildlifeAntiPoachingOps",
+    "name": "Wildlife anti poaching ops",
+    "sourceProject": "AIWildlifeAntiPoachingOps",
+    "services": []
+  },
+  {
+    "id": "waste-management-route-compliance-suite",
+    "name": "Waste management route compliance suite",
+    "sourceProject": "waste-management-route-compliance-suite",
+    "services": []
+  },
+  {
+    "id": "water-utility-asset-compliance-suite",
+    "name": "Water utility asset compliance suite",
+    "sourceProject": "water-utility-asset-compliance-suite",
+    "services": []
+  }
+]
