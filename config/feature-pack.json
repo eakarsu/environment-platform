@@ -1,0 +1,28 @@
+{
+  "insights": [
+    {
+      "id": "insight-emission-facility",
+      "feature": "emission-facility",
+      "title": "Emission Facility insight",
+      "focus": "Summarize Emission Facility records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "insight-permit-condition",
+      "feature": "permit-condition",
+      "title": "Permit Condition insight",
+      "focus": "Summarize Permit Condition records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "insight-deviation-event",
+      "feature": "deviation-event",
+      "title": "Deviation Event insight",
+      "focus": "Summarize Deviation Event records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks, including unassigned work."
+    }
+  ]
+}
